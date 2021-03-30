@@ -1,4 +1,4 @@
-# Machine-Learning-for-Cyber-Security
+# Machine Learning for Cyber Security
 To store own ML projects of CySec domain  
 
 Few good research works are:  
