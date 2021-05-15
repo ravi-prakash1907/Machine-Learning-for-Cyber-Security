@@ -1,5 +1,7 @@
 ## Problem Statement   
 
+This work is inspired from an [Analytics Vidhya's article](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/?#)  
+
 Dream Housing Finance company deals in all home loans. They have a presence across all urban, 
 semi-urban and rural areas. A customer first applies for a home loan, after that the company 
 validates the customer’s eligibility for a loan.  
