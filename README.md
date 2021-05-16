@@ -1,5 +1,5 @@
 # Machine Learning for Cyber Security
-To store own ML projects of CySec domain  
+To store own ML projects (mainly related to CySec domain)  
 
 Few good research works are:  
 1. [Feature Selection based Classification of Spams Using Fuzzy Support Vector Machine](10.1109/ICOSEC49089.2020.9215443)

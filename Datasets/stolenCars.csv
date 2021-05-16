@@ -1,0 +1,11 @@
+Car-ID,Color,Type,Origin,Stolen?
+C1,Red,Sports,Domestic,Yes
+C2,Red,Sports,Domestic,No
+C3,Red,Sports,Domestic,Yes
+C4,Yellow,Sports,Domestic,No
+C5,Yellow,Sports,Imported,Yes
+C6,Yellow,SUV,Imported,No
+C7,Yellow,SUV,Imported,Yes
+C8,Yellow,SUV,Domestic,No
+C9,Red,SUV,Imported,No
+C10,Red,Sports,Imported,Yes
